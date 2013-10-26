@@ -21,7 +21,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-```php
+```php5
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
@@ -33,7 +33,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-```objc
+```obj-c
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
