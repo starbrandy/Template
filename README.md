@@ -6,10 +6,10 @@ The description here tiramisu tart applicake biscuit croissant dessert dessert s
 
 Endpoints Used
 -------------------------
-* [ENDPOINT NAME] [https://github.com/starbrandy/Template]
-* [ENDPOINT NAME] [https://github.com/starbrandy/Template]
-* [ENDPOINT NAME] [https://github.com/starbrandy/Template]
-* [ENDPOINT NAME] [https://github.com/starbrandy/Template]
+* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
+* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
+* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
+* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
 
 1. Cheesecake danish candy canes pastry oat cake unerdwear.com gingerbread. Toffee caramels carrot cake wafer oat cake topping. Tart oat cake dessert candy canes tootsie roll tart brownie.
 2. Cheesecake danish candy canes pastry oat cake unerdwear.com gingerbread. Toffee caramels carrot cake wafer oat cake topping. Tart oat cake dessert candy canes tootsie roll tart brownie.
