@@ -6,21 +6,17 @@ The description here tiramisu tart applicake biscuit croissant dessert dessert s
 
 Endpoints Used
 -------------------------
-* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
-* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
-* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
-* [ENDPOINT NAME] (https://github.com/starbrandy/Template)
+* [ENDPOINT NAME] (#)
+* [ENDPOINT NAME] (#)
+* [ENDPOINT NAME] (#)
+* [ENDPOINT NAME] (#)
 
 1. Cheesecake danish candy canes pastry oat cake unerdwear.com gingerbread. Toffee caramels carrot cake wafer oat cake topping. Tart oat cake dessert candy canes tootsie roll tart brownie.
 2. Cheesecake danish candy canes pastry oat cake unerdwear.com gingerbread. Toffee caramels carrot cake wafer oat cake topping. Tart oat cake dessert candy canes tootsie roll tart brownie.
 3. Cheesecake danish candy canes pastry oat cake unerdwear.com gingerbread. Toffee caramels carrot cake wafer oat cake topping. Tart oat cake dessert candy canes tootsie roll tart brownie.
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
 
+*PHP*
 ```php5
 <?php
       /* Initialize some variables using C style comments
@@ -38,6 +34,9 @@ puts markdown.to_html
 ?>
 ```
 
+
+
+*C#*
 ```csharp
 // Hello3.cs
 // arguments: A B C D
@@ -58,6 +57,8 @@ public class Hello3
 }
 ```
 
+
+*Objective C*
 ```obj-c
 #import "Fraction.h"
 
