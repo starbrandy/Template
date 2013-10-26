@@ -35,17 +35,36 @@ puts markdown.to_html
               # Shell style comment, display something when y<5
               echo "Guess what?  y is less than 5!";
       }
- ?>
+?>
 ```
 
 ```csharp
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+// Hello3.cs
+// arguments: A B C D
+using System;
+
+public class Hello3
+{
+   public static void Main(string[] args)
+   {
+      Console.WriteLine("Hello, World!");
+      Console.WriteLine("You entered the following {0} command line arguments:",
+         args.Length );
+      for (int i=0; i < args.Length; i++)
+      {
+         Console.WriteLine("{0}", args[i]); 
+      }
+   }
+}
 ```
 
 ```obj-c
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+#import "Fraction.h"
+
+@interface Fraction (Math)
+-(Fraction*) add: (Fraction*) f;
+-(Fraction*) mul: (Fraction*) f;
+-(Fraction*) div: (Fraction*) f;
+-(Fraction*) sub: (Fraction*) f;
+@end
 ```
